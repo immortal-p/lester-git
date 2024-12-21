@@ -1,1 +1,1 @@
-git is awesome!
+new offer for info mkdir
